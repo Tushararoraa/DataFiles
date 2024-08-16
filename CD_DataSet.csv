@@ -1,0 +1,29 @@
+﻿row_number,anpi,bnpi,Para input HCP,ct_count,pmid_count,a_full_name,a_area_name,a_state,b_full_name,b_state,a_patient_id,b_patient_id,a_specialization,b_specialization,a_HCO,b_HCO,a_drug,b_drug
+1,1861698946,1598785966,NEELIMA DENDULURI,2,0,NEELIMA DENDULURI,WASHINGTON,VA,SUMITHRA R VATTIGUNTA,FL,54321,45278,oncology,cancer,Mayo Clinic,Johns Hopkins Medicine,Pembrolizumab,Tamoxifen
+2,1124133210,1184608788,DAVID ANDREW RISEBERG,0,4,DAVID ANDREW RISEBERG,WASHINGTON,VA,TARI A KING,MA,23454,54321,cardiology,neurology,Cleveland Clinic,Kaiser Permanente,Atorvastatin,Carbidopa
+3,1861698946,1053536508,NEELIMA DENDULURI,1,0,NEELIMA DENDULURI,WASHINGTON,VA,KELLY E WESTBROOK,MD,75432,45278,oncology,pulmonology,Mayo Clinic,Stanford Health Care,Pembrolizumab,Fluticasone
+4,1124133210,1598785966,DAVID ANDREW RISEBERG,3,1,DAVID ANDREW RISEBERG,WASHINGTON,VA,JOHN DOE,CA,54321,87654,neurology,oncology,Cleveland Clinic,Mayo Clinic,Levodopa,Pembrolizumab
+5,1861698946,1122334455,NEELIMA DENDULURI,2,3,NEELIMA DENDULURI,WASHINGTON,VA,JANE DOE,NY,65432,54321,oncology,neurology,Mayo Clinic,Cedars-Sinai Medical,Pembrolizumab,Levodopa
+6,1124133210,1357924680,DAVID ANDREW RISEBERG,1,0,DAVID ANDREW RISEBERG,WASHINGTON,VA,EMILY CLARK,TX,23456,87654,cardiology,pulmonology,Cleveland Clinic,MD Anderson Cancer,Atorvastatin,Salmeterol
+7,1861698946,1452369870,NEELIMA DENDULURI,2,0,NEELIMA DENDULURI,WASHINGTON,VA,ROBERT WILLIAMS,IL,54321,23456,oncology,cardiology,Mayo Clinic,Stanford Health Care,Pembrolizumab,Atorvastatin
+8,1452369870,1184608788,ROBERT WILLIAMS,1,2,ROBERT WILLIAMS,ILLINOIS,IL,TARI A KING,MA,65432,54321,cardiology,neurology,Stanford Health Care,Kaiser Permanente,Atorvastatin,Carbidopa
+9,987654321,1053536508,JOHN DOE,2,1,JOHN DOE,LOS ANGELES,CA,KELLY E WESTBROOK,MD,75432,45278,neurology,pulmonology,Mayo Clinic,Stanford Health Care,Levodopa,Fluticasone
+10,1234567890,1122334455,JANE DOE,3,4,JANE DOE,NEW YORK,NY,EMILY CLARK,TX,23456,87654,neurology,oncology,Cedars-Sinai Medical,MD Anderson Cancer,Levodopa,Pembrolizumab
+11,1357924680,1598785966,EMILY CLARK,1,0,EMILY CLARK,HOUSTON,TX,SUMITHRA R VATTIGUNTA,FL,54321,45278,pulmonology,cancer,MD Anderson Cancer,Johns Hopkins Medicine,Salmeterol,Tamoxifen
+12,1184608788,1452369870,TARI A KING,2,1,TARI A KING,MASSACHUSETTS,MA,ROBERT WILLIAMS,IL,65432,23456,neurology,cardiology,Kaiser Permanente,Stanford Health Care,Carbidopa,Atorvastatin
+13,1598785966,1124133210,SUMITHRA R VATTIGUNTA,3,2,SUMITHRA R VATTIGUNTA,FLORIDA,FL,DAVID ANDREW RISEBERG,VA,54321,54321,cancer,cardiology,Johns Hopkins Medicine,Cleveland Clinic,Tamoxifen,Atorvastatin
+14,1452369870,1861698946,ROBERT WILLIAMS,0,1,ROBERT WILLIAMS,ILLINOIS,IL,NEELIMA DENDULURI,VA,54321,45278,cardiology,oncology,Stanford Health Care,Mayo Clinic,Atorvastatin,Pembrolizumab
+15,1053536508,1234567890,KELLY E WESTBROOK,2,0,KELLY E WESTBROOK,MARYLAND,MD,JANE DOE,NY,75432,54321,pulmonology,neurology,Stanford Health Care,Cedars-Sinai Medical,Fluticasone,Levodopa
+16,1122334455,987654321,JANE DOE,1,3,JANE DOE,NEW YORK,NY,JOHN DOE,CA,54321,87654,neurology,neurology,Cedars-Sinai Medical,Mayo Clinic,Levodopa,Levodopa
+17,1234567890,1452369870,JOHN DOE,3,1,JOHN DOE,LOS ANGELES,CA,ROBERT WILLIAMS,IL,54321,23456,neurology,cardiology,Mayo Clinic,Stanford Health Care,Levodopa,Atorvastatin
+18,1357924680,987654321,EMILY CLARK,2,4,EMILY CLARK,HOUSTON,TX,JOHN DOE,CA,54321,87654,pulmonology,neurology,MD Anderson Cancer,Mayo Clinic,Salmeterol,Levodopa
+19,1598785966,1357924680,SUMITHRA R VATTIGUNTA,3,2,SUMITHRA R VATTIGUNTA,FLORIDA,FL,EMILY CLARK,TX,54321,23456,cancer,pulmonology,Johns Hopkins Medicine,MD Anderson Cancer,Tamoxifen,Salmeterol
+20,1124133210,1053536508,DAVID ANDREW RISEBERG,1,0,DAVID ANDREW RISEBERG,WASHINGTON,VA,KELLY E WESTBROOK,MD,23454,75432,cardiology,pulmonology,Cleveland Clinic,Stanford Health Care,Atorvastatin,Fluticasone
+21,1861698946,1234567890,NEELIMA DENDULURI,2,3,NEELIMA DENDULURI,WASHINGTON,VA,JANE DOE,NY,54321,65432,oncology,neurology,Mayo Clinic,Cedars-Sinai Medical,Pembrolizumab,Levodopa
+22,987654321,1124133210,JOHN DOE,0,2,JOHN DOE,LOS ANGELES,CA,DAVID ANDREW RISEBERG,VA,87654,23454,neurology,cardiology,Mayo Clinic,Cleveland Clinic,Levodopa,Atorvastatin
+23,1122334455,1861698946,JANE DOE,1,3,JANE DOE,NEW YORK,NY,NEELIMA DENDULURI,VA,54321,54321,neurology,oncology,Cedars-Sinai Medical,Mayo Clinic,Levodopa,Pembrolizumab
+24,1452369870,1357924680,ROBERT WILLIAMS,2,0,ROBERT WILLIAMS,ILLINOIS,IL,EMILY CLARK,TX,54321,23456,cardiology,pulmonology,Stanford Health Care,MD Anderson Cancer,Atorvastatin,Salmeterol
+25,1184608788,987654321,TARI A KING,3,1,TARI A KING,MASSACHUSETTS,MA,JOHN DOE,CA,65432,87654,neurology,neurology,Kaiser Permanente,Mayo Clinic,Carbidopa,Levodopa
+26,1053536508,1122334455,KELLY E WESTBROOK,1,2,KELLY E WESTBROOK,MARYLAND,MD,JANE DOE,NY,75432,54321,pulmonology,neurology,Stanford Health Care,Cedars-Sinai Medical,Fluticasone,Levodopa
+27,1234567890,1598785966,JOHN DOE,2,3,JOHN DOE,LOS ANGELES,CA,SUMITHRA R VATTIGUNTA,FL,87654,54321,neurology,cancer,Mayo Clinic,Johns Hopkins Medicine,Levodopa,Tamoxifen
+28,1357924680,1452369870,EMILY CLARK,3,4,EMILY CLARK,HOUSTON,TX,ROBERT WILLIAMS,IL,54321,23456,pulmonology,cardiology,MD Anderson Cancer,Stanford Health Care,Salmeterol,Atorvastatin
