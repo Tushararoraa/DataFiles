@@ -1,0 +1,101 @@
+npi,ct_count,pmid_count,full_name,area_name,state,patient_id,specialization,HCO,drug,zip
+7540661782,5,9,Joseph Lopez,HOUSTON,TX,56845,neurology,Cleveland Clinic,Carbidopa,77001
+8502947671,4,3,David Wilson,SAN ANTONIO,TX,54763,cardiology,Johns Hopkins Medicine,Fluticasone,78201
+2029283743,0,3,Robert Martinez,PHILADELPHIA,PA,55615,cardiology,Mayo Clinic,Atorvastatin,19104
+8713058659,3,1,David Wilson,SAN ANTONIO,TX,57670,neurology,Johns Hopkins Medicine,Atorvastatin,78201
+7356426132,2,5,Barbara Gonzalez,LOS ANGELES,CA,53535,oncology,Johns Hopkins Medicine,Atorvastatin,90048
+1612208853,4,9,David Rodriguez,PHOENIX,AZ,56418,pulmonology,Stanford Health Care,Atorvastatin,85001
+2857751198,4,9,Barbara Garcia,HOUSTON,TX,59751,cardiology,Stanford Health Care,Atorvastatin,77001
+5924315668,4,0,Michael Miller,SAN ANTONIO,TX,52183,cardiology,Mayo Clinic,Fluticasone,78201
+8569790107,0,5,James Martinez,HOUSTON,TX,55625,oncology,Stanford Health Care,Carbidopa,77001
+4062977098,4,2,Sophia Martinez,DALLAS,TX,57670,cardiology,Cleveland Clinic,Carbidopa,75201
+2102919348,5,10,Linda Martinez,PHILADELPHIA,PA,54460,oncology,Stanford Health Care,Fluticasone,19104
+4620939643,3,5,David Davis,SAN DIEGO,CA,53908,oncology,Cleveland Clinic,Atorvastatin,92101
+7946480518,1,2,Emma Davis,LOS ANGELES,CA,59931,neurology,Stanford Health Care,Atorvastatin,90048
+9800506251,5,10,John Gonzalez,SAN DIEGO,CA,55418,cardiology,Mayo Clinic,Atorvastatin,92101
+3273950574,2,5,James Davis,SAN ANTONIO,TX,59438,pulmonology,Mayo Clinic,Fluticasone,78201
+9439495468,0,9,Michael Hernandez,LOS ANGELES,CA,53410,oncology,Stanford Health Care,Pembrolizumab,90048
+2515818046,4,1,Emma Gonzalez,SAN DIEGO,CA,57348,neurology,Johns Hopkins Medicine,Carbidopa,92101
+9063519414,1,3,John Jones,LOS ANGELES,CA,51945,cardiology,Cleveland Clinic,Pembrolizumab,90048
+5446248922,0,5,Joseph Anderson,HOUSTON,TX,57036,pulmonology,Johns Hopkins Medicine,Tamoxifen,77001
+5771437953,1,4,Olivia Martinez,PHOENIX,AZ,50770,neurology,Cleveland Clinic,Pembrolizumab,85001
+1982771858,4,3,Mary Johnson,LOS ANGELES,CA,58785,oncology,Stanford Health Care,Tamoxifen,90048
+2009752332,5,7,Jane Garcia,HOUSTON,TX,51800,oncology,Cleveland Clinic,Tamoxifen,77001
+9306493014,1,4,Mary Williams,PHILADELPHIA,PA,52981,cardiology,Johns Hopkins Medicine,Carbidopa,19104
+1812942426,5,5,Linda Johnson,DALLAS,TX,52722,oncology,Cleveland Clinic,Atorvastatin,75201
+9077273033,4,6,Jane Smith,PHOENIX,AZ,51988,oncology,Johns Hopkins Medicine,Fluticasone,85001
+2579870071,4,4,Emma Williams,HOUSTON,TX,59853,oncology,Mayo Clinic,Atorvastatin,77001
+6167090673,1,7,Olivia Lopez,WASHINGTON,VA,56074,cardiology,Stanford Health Care,Tamoxifen,22747
+6639330102,1,9,James Johnson,PHOENIX,AZ,54949,neurology,Stanford Health Care,Fluticasone,85001
+7967701701,1,6,Emma Davis,LOS ANGELES,CA,56321,oncology,Stanford Health Care,Carbidopa,90048
+2389194154,1,10,Robert Davis,CHICAGO,IL,59313,cardiology,Johns Hopkins Medicine,Pembrolizumab,60601
+2416056354,0,10,Sophia Hernandez,PHOENIX,AZ,56676,oncology,Johns Hopkins Medicine,Pembrolizumab,85001
+3975037050,5,7,Barbara Johnson,PHILADELPHIA,PA,55222,oncology,Johns Hopkins Medicine,Atorvastatin,19104
+1652001778,1,1,Olivia Hernandez,LOS ANGELES,CA,58019,oncology,Mayo Clinic,Fluticasone,90048
+8394518247,0,2,Emma Anderson,DALLAS,TX,50666,cardiology,Mayo Clinic,Atorvastatin,75201
+5391313948,5,8,John Smith,SAN ANTONIO,TX,55907,pulmonology,Stanford Health Care,Pembrolizumab,78201
+4714086191,3,2,Sophia Martinez,HOUSTON,TX,52648,oncology,Mayo Clinic,Fluticasone,77001
+5482350559,2,1,Robert Brown,NEW YORK,NY,58467,cardiology,Mayo Clinic,Atorvastatin,10001
+8594475327,2,3,Linda Davis,WASHINGTON,VA,53240,neurology,Stanford Health Care,Tamoxifen,22747
+7532345660,2,3,William Lopez,HOUSTON,TX,51721,oncology,Cleveland Clinic,Fluticasone,77001
+8696950248,5,3,Linda Davis,HOUSTON,TX,53114,neurology,Cleveland Clinic,Fluticasone,77001
+3188197808,1,2,Emma Hernandez,DALLAS,TX,57404,cardiology,Stanford Health Care,Atorvastatin,75201
+2342129153,4,0,Sophia Miller,NEW YORK,NY,57239,oncology,Stanford Health Care,Tamoxifen,10001
+5462367086,5,5,Michael Wilson,CHICAGO,IL,51782,neurology,Cleveland Clinic,Atorvastatin,60601
+6255422898,3,7,William Gonzalez,SAN DIEGO,CA,52222,pulmonology,Mayo Clinic,Pembrolizumab,92101
+9931786207,3,6,Olivia Martinez,WASHINGTON,VA,54880,oncology,Mayo Clinic,Fluticasone,22747
+7074390345,5,0,Sarah Hernandez,PHOENIX,AZ,53493,pulmonology,Cleveland Clinic,Pembrolizumab,85001
+6245504318,3,9,Jane Miller,DALLAS,TX,58015,cardiology,Cleveland Clinic,Tamoxifen,75201
+7708033794,5,0,Sarah Jones,PHILADELPHIA,PA,51487,pulmonology,Johns Hopkins Medicine,Carbidopa,19104
+5314063700,3,9,Jane Rodriguez,PHILADELPHIA,PA,55388,pulmonology,Johns Hopkins Medicine,Carbidopa,19104
+5453279321,4,9,David Gonzalez,CHICAGO,IL,53836,pulmonology,Stanford Health Care,Carbidopa,60601
+2328078187,5,7,Barbara Davis,PHOENIX,AZ,57725,cardiology,Cleveland Clinic,Tamoxifen,85001
+3635593012,4,2,Robert Davis,WASHINGTON,VA,54297,oncology,Mayo Clinic,Atorvastatin,22747
+2275767807,5,7,Barbara Johnson,DALLAS,TX,57735,cardiology,Cleveland Clinic,Carbidopa,75201
+4738830972,4,9,David Davis,SAN ANTONIO,TX,57216,pulmonology,Mayo Clinic,Fluticasone,78201
+8273083916,3,9,Barbara Hernandez,HOUSTON,TX,59759,oncology,Stanford Health Care,Atorvastatin,77001
+7523594340,4,8,David Williams,PHOENIX,AZ,54689,neurology,Cleveland Clinic,Carbidopa,85001
+9074262392,4,7,William Wilson,SAN DIEGO,CA,53624,pulmonology,Johns Hopkins Medicine,Atorvastatin,92101
+8620984572,4,6,David Lopez,WASHINGTON,VA,57144,cardiology,Mayo Clinic,Atorvastatin,22747
+5259833973,5,4,Mary Lopez,SAN DIEGO,CA,58326,cardiology,Stanford Health Care,Tamoxifen,92101
+6129059422,0,3,Jane Garcia,HOUSTON,TX,53919,pulmonology,Mayo Clinic,Carbidopa,77001
+1454129920,2,5,Linda Davis,PHOENIX,AZ,51159,pulmonology,Cleveland Clinic,Atorvastatin,85001
+4102485559,4,2,Michael Jones,PHILADELPHIA,PA,54855,neurology,Cleveland Clinic,Fluticasone,19104
+7054543332,4,1,James Smith,PHILADELPHIA,PA,53823,pulmonology,Cleveland Clinic,Fluticasone,19104
+8617079379,2,10,Olivia Johnson,DALLAS,TX,52973,pulmonology,Cleveland Clinic,Tamoxifen,75201
+7892590638,1,10,Sophia Rodriguez,LOS ANGELES,CA,50272,neurology,Stanford Health Care,Pembrolizumab,90048
+7474152142,0,5,Michael Jones,LOS ANGELES,CA,56636,oncology,Mayo Clinic,Pembrolizumab,90048
+9595737198,5,1,Mary Martinez,DALLAS,TX,51427,oncology,Cleveland Clinic,Atorvastatin,75201
+3982307459,0,6,John Miller,PHILADELPHIA,PA,53127,pulmonology,Mayo Clinic,Tamoxifen,19104
+2559306239,4,1,Michael Garcia,DALLAS,TX,51140,neurology,Stanford Health Care,Fluticasone,75201
+6608623911,5,0,Sophia Williams,WASHINGTON,VA,55552,oncology,Stanford Health Care,Fluticasone,22747
+7519904271,3,10,Mary Smith,PHILADELPHIA,PA,55208,neurology,Stanford Health Care,Pembrolizumab,19104
+5022120653,3,9,Jane Davis,PHILADELPHIA,PA,53292,oncology,Cleveland Clinic,Pembrolizumab,19104
+2020611748,3,3,Linda Hernandez,CHICAGO,IL,50486,pulmonology,Cleveland Clinic,Atorvastatin,60601
+1809612027,3,3,David Anderson,PHILADELPHIA,PA,53751,oncology,Johns Hopkins Medicine,Carbidopa,19104
+2351276806,3,4,Robert Johnson,SAN DIEGO,CA,52478,cardiology,Mayo Clinic,Fluticasone,92101
+2990460948,5,4,Sarah Rodriguez,CHICAGO,IL,59935,oncology,Johns Hopkins Medicine,Atorvastatin,60601
+2127058235,3,4,Mary Davis,DALLAS,TX,54202,oncology,Cleveland Clinic,Fluticasone,75201
+7094618307,3,6,Michael Jones,PHOENIX,AZ,52912,oncology,Cleveland Clinic,Pembrolizumab,85001
+2996382986,1,8,Emma Smith,HOUSTON,TX,53044,pulmonology,Mayo Clinic,Tamoxifen,77001
+9417418550,2,9,Sarah Miller,DALLAS,TX,55042,cardiology,Cleveland Clinic,Carbidopa,75201
+5312998521,3,3,Robert Lopez,LOS ANGELES,CA,58632,oncology,Johns Hopkins Medicine,Carbidopa,90048
+9651339303,2,1,John Brown,NEW YORK,NY,59981,neurology,Mayo Clinic,Pembrolizumab,10001
+1852482931,4,10,Barbara Williams,WASHINGTON,VA,52191,cardiology,Mayo Clinic,Atorvastatin,22747
+8270214019,0,5,David Garcia,NEW YORK,NY,52306,cardiology,Stanford Health Care,Fluticasone,10001
+3725411684,0,2,John Brown,DALLAS,TX,51511,oncology,Cleveland Clinic,Atorvastatin,75201
+9528313656,4,8,Sarah Davis,CHICAGO,IL,51444,neurology,Stanford Health Care,Carbidopa,60601
+9616070996,0,6,Joseph Anderson,PHILADELPHIA,PA,50366,pulmonology,Johns Hopkins Medicine,Carbidopa,19104
+6749152838,5,6,Barbara Martinez,CHICAGO,IL,59539,pulmonology,Stanford Health Care,Atorvastatin,60601
+3097656713,2,9,Michael Johnson,CHICAGO,IL,55384,neurology,Stanford Health Care,Pembrolizumab,60601
+4119933329,3,9,Sarah Davis,PHILADELPHIA,PA,55200,neurology,Stanford Health Care,Pembrolizumab,19104
+4936695112,1,6,Olivia Lopez,CHICAGO,IL,59095,pulmonology,Cleveland Clinic,Carbidopa,60601
+7371357988,0,8,Mary Miller,PHILADELPHIA,PA,57716,cardiology,Johns Hopkins Medicine,Atorvastatin,19104
+1013775606,1,1,James Davis,PHILADELPHIA,PA,50523,oncology,Johns Hopkins Medicine,Fluticasone,19104
+2848992037,2,1,Barbara Hernandez,HOUSTON,TX,54647,neurology,Stanford Health Care,Carbidopa,77001
+5132957627,2,6,John Miller,SAN DIEGO,CA,54625,neurology,Johns Hopkins Medicine,Fluticasone,92101
+9996546291,4,0,Olivia Garcia,SAN ANTONIO,TX,59340,neurology,Stanford Health Care,Fluticasone,78201
+8229703784,4,2,James Martinez,CHICAGO,IL,58778,neurology,Johns Hopkins Medicine,Fluticasone,60601
+5253439711,1,0,Mary Lopez,PHOENIX,AZ,59690,cardiology,Mayo Clinic,Pembrolizumab,85001
+7994500058,3,2,William Brown,HOUSTON,TX,58368,cardiology,Johns Hopkins Medicine,Pembrolizumab,77001
+8259510714,4,9,Barbara Miller,NEW YORK,NY,56401,pulmonology,Stanford Health Care,Atorvastatin,10001
